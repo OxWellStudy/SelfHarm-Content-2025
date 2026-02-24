@@ -22,7 +22,7 @@ The OxWell Student Survey is a repeated cross-sectional survey of primary and se
 
 This analysis used data from the 2025 wave of the OxWell Student Survey (version R13).
 
-This repository does not contain the dataset used for this analysis, as access is restricted due to participant confidentiality and data protection requirements. Researchers may apply to use the dataset by contacting the OxWell Student Survey study team at oxwell@psych.ox.ac.uk.
+This repository does not contain the dataset used for this analysis, as access is restricted due to data protection requirements. Researchers may apply to use the dataset by contacting the OxWell Student Survey study team at oxwell@psych.ox.ac.uk.
 
 ---
 

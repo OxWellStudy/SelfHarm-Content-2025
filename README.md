@@ -1,14 +1,15 @@
 
-# Algorithms, Accidental Encounters and Intentional Exposure  
-## Pathways to Online Self-Harm Content in 30,000 Adolescents  
+# Algorithmically driven exposure to online self-harm content and its association with broader psychosocial risk in 32,000 adolescents
 (OxWell Student Survey 2025)
 
 ## Introduction
 
 This GitHub repository contains the code necessary to replicate findings from the following paper:
 
-**Bear et al. (under review).**  
-*Algorithms, Accidental Encounters and Intentional Exposure: Pathways to Online Self-Harm Content in 30,000 Adolescents.*
+
+**Bear, H., Soneson, E., Geulayov, G. & Fazel, M. (2026).**
+*Algorithmically driven exposure to online self-harm content and its association with broader psychosocial risk in 32,000 adolescents.
+Nature Mental Health, published 21 July 2026. https://doi.org/10.1038/s44220-026-00682-w*
 
 ---
 
